@@ -23,5 +23,5 @@ git clone https://github.com/ehjhihlo/EmbeddedSystem_hw2
 
 ## 執行結果
 在此專案中，選用了STM32感測器中的溫度、濕度、壓力以及x方向的加速度資訊，每10毫秒進行一次傳值，並在hw2_server.py中用matplotlib套件實作資料可視化。  
-實作結果如下圖所示：
+實作結果如下圖所示：  
 ![image](https://github.com/ehjhihlo/EmbeddedSystem_hw2/assets/75471051/80865f61-24ea-462e-bd64-d0ae9e5389ab)
